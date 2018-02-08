@@ -14,7 +14,7 @@ All following commands should be executed inside a terminal. `Terminal` comes bu
     export NVM_DIR="$HOME/.nvm"
     [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
     command -v nvm
-    npm install 8.9.4
+    nvm install 8.9.4
 
 ##### 3. Install skpm
 
